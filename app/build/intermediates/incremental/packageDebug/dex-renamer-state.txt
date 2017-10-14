@@ -1,0 +1,7 @@
+#Sat Oct 14 19:50:35 CST 2017
+base.0=G\:\\code_byself\\Android_heima\\001_dialogNum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9126f455dd567c450809a2723575df83f16b4fcf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\code_byself\\Android_heima\\001_dialogNum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_106cea8fc14b27096639d60e826a48a2aa2a781b\\classes.dex
+base.1=G\:\\code_byself\\Android_heima\\001_dialogNum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_106cea8fc14b27096639d60e826a48a2aa2a781b
+file.0=G\:\\code_byself\\Android_heima\\001_dialogNum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9126f455dd567c450809a2723575df83f16b4fcf\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\code_byself\Android_heima\001_dialogNum\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="G:\code_byself\Android_heima\001_dialogNum\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_106cea8fc14b27096639d60e826a48a2aa2a781b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\code_byself\Android_heima\001_dialogNum\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0e4587a63bb5be17fa2a56639f4c6c0ed763026">
+        <dex dex="G:\code_byself\Android_heima\001_dialogNum\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9126f455dd567c450809a2723575df83f16b4fcf\classes.dex" />
+    </item>
+
+</items>
